@@ -1,8 +1,9 @@
 {
-    "name": "Barrel Dodger #2",
+    "name": "Steven Jumper",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "edge-connector": "*"
     },
     "files": [
         "main.blocks",
